@@ -33,13 +33,7 @@ With a proven track record and a portfolio of successful projects (available on 
 
 <h3>Find me on social sites</h3>
 
-<ul style="list-style: none; padding: 0; margin: 0;">
-        <li>
-            <a href="">
-                <img  style="max-width: 80px;" src="https://i.ibb.co.com/XxwtnxVM/003-linkedin.png" alt="">
-            </a>
-        </li>
-</ul>
+[![LinkedIn](https://i.ibb.co/XxwtnxVM/003-linkedin.png)](https://www.linkedin.com/in/your-profile)
 
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/nabilsiddik)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/in/nabil-siddik-507b4b177//)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg' alt='facebook' height='40'>](https://www.facebook.com/nabilsiddik90)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg' alt='instagram' height='40'>](https://www.instagram.com/nabil.siddik/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg' alt='twitter' height='40'>](https://twitter.com/SiddikNabil)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/stackoverflow.svg' alt='stackoverflow' height='40'>](https://stackoverflow.com/users/nabil-siddik)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/youtube.svg' alt='YouTube' height='40'>](https://www.youtube.com/channel/UC6ammuqDfJoOgAdVE4KBfHQ)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/icloud.svg' alt='website' height='40'>](https://www.nabilsiddik.me)  
 
