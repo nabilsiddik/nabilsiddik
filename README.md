@@ -2,16 +2,9 @@
 
 ### Hi there, This is Nabil Siddik
 I'm a dedicated, experienced full-stack web developer passionate about creating modern, responsive, and visually appealing websites tailored to your needs.
-Technologies I Specialize In:
-Frontend: HTML, CSS, Tailwind CSS, JavaScript, React.js, Next.js
-Backend: Node.js, Express.js
-Database: MongoDB, MySQL
-Content Management: WordPress
-Design Tools: Adobe Photoshop, Figma
-
 With a proven track record and a portfolio of successful projects (available on my profile), I aim to provide high-quality web development services that exceed client expectations.
 
-Skills: HTML / CSS / Bootstrap / JS / jQuery / PHP / WordPress
+
 
 - 🔭 I’m currently working on Ecommerce Development 
 - 🌱 I’m currently learning Javascript 
