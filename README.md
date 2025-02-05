@@ -1,4 +1,4 @@
-![Front-End Web Developer](https://www.canva.com/design/DAGd4qcawhs/0cINdFxNuc2gnaYxjr5OAw/view?utm_content=DAGd4qcawhs&utm_campaign=designshare&utm_medium=link2&utm_source=uniquelinks&utlId=h5db65273e1)
+![Front-End Web Developer](https://i.ibb.co.com/9kx8Q50s/nabil-siddik-banner.png)
 
 ### Hi there 👋, I'm Nabil Siddik
 #### Front-End Web Developer
