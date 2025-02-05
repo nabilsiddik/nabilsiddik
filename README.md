@@ -5,6 +5,7 @@ I'm a dedicated, experienced full-stack web developer passionate about creating 
 With a proven track record and a portfolio of successful projects (available on my profile), I aim to provide high-quality web development services that exceed client expectations.
 
 <h3>Things I code with</h3>
+
 ![HTML5](https://img.shields.io/badge/-HTML5-E34F26?logo=html5&logoColor=white&style=for-the-badge)
 ![CSS2](https://img.shields.io/badge/-CSS2-1572B6?logo=css3&logoColor=white&style=for-the-badge)
 ![SASS](https://img.shields.io/badge/-SASS-CC6699?logo=sass&logoColor=white&style=for-the-badge)
