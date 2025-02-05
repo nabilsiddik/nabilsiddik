@@ -31,6 +31,10 @@ With a proven track record and a portfolio of successful projects (available on 
 ✅  Studying Computer Science and Engineering          
 ⏳  Enjoying my coding life
 
+<h3>Contact me</h3>
+Gmail: nabilsiddik90@gmail.com
+Phone: +8801957282230
+
 <h3>Find me on social sites</h3>
 
 [<img src='https://i.ibb.co.com/XxwtnxVM/003-linkedin.png' alt='github' height='40'>](https://www.linkedin.com/in/nabilsiddik/)  [<img src='https://i.ibb.co.com/kg4m6fdR/004-twitter.png' alt='twitter' height='40'>](https://x.com/SiddikNabil)  [<img src='https://i.ibb.co.com/bR8GDK8H/001-facebook.png' alt='facebook' height='40'>](https://www.facebook.com/codewithnabil)  [<img src='https://i.ibb.co.com/skh68rQ/002-instagram.png' alt='instagram' height='40'>](https://www.instagram.com/nabil.siddik/) [<img src='https://i.ibb.co.com/qLMLJmQD/social.png' alt='flicker' height='40'>](https://www.flickr.com/photos/186422013@N06/)   
