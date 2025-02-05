@@ -33,11 +33,8 @@ With a proven track record and a portfolio of successful projects (available on 
 
 <h3>Find me on social sites</h3>
 
-[![LinkedIn](https://i.ibb.co/XxwtnxVM/003-linkedin.png)](https://www.linkedin.com/in/your-profile)
-
 [<img src='https://i.ibb.co.com/XxwtnxVM/003-linkedin.png' alt='github' height='40'>](https://www.linkedin.com/in/nabilsiddik/)  [<img src='https://i.ibb.co.com/kg4m6fdR/004-twitter.png' alt='twitter' height='40'>](https://x.com/SiddikNabil)  [<img src='https://i.ibb.co.com/bR8GDK8H/001-facebook.png' alt='facebook' height='40'>](https://www.facebook.com/codewithnabil)  [<img src='https://i.ibb.co.com/skh68rQ/002-instagram.png' alt='instagram' height='40'>](https://www.instagram.com/nabil.siddik/)  [<img src='https://i.ibb.co.com/LzW30cYj/gmail.png' alt='gmail' height='40'>](nabilsiddik90@gmail.com)  [<img src='https://i.ibb.co.com/qLMLJmQD/social.png' alt='flicker' height='40'>](https://www.flickr.com/photos/186422013@N06/)   
 
-<a href='https://archiveprogram.github.com/'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/acbadge.gif' width='40' height='40'></a> <a href='https://docs.github.com/en/developers'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/devbadge.gif' width='40' height='40'></a> <a href='https://github.com/pricing'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/pro.gif' width='40' height='40'></a> <a href='https://stars.github.com/'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/starbadge.gif' width='35' height='35'></a> <a href='https://docs.github.com/en/github/supporting-the-open-source-community-with-github-sponsors'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/sponsorbadge.gif' width='35' height='35'></a> 
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=nabilsiddik)](https://github.com/ryo-ma/github-profile-trophy)
 
