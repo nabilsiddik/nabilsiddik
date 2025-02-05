@@ -24,13 +24,12 @@ With a proven track record and a portfolio of successful projects (available on 
 ![Java](https://img.shields.io/badge/-Java-007396?logo=java&logoColor=white&style=for-the-badge)
 ![Python](https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white&style=for-the-badge)
 
+<h3>What I am doing now?</h3>
 
-- ✔ I’m currently working on an E-commerce Project 
-- ✔ I’m currently learning AI/ML 
-✔ I’m looking to collaborate on GitHub 
-✔ Ask me about Web Development 
-✔ How to reach me: nabilsiddik90@gmail.com 
-✔ Fun fact: Coding Is Fun 
+🏆  Currently Doing an E-commerce Project           
+🌸  Learning AI/ML           
+✅  Studying Computer Science and Engineering          
+⏳  Enjoying my coding life
 
 
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/nabilsiddik)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/in/nabil-siddik-507b4b177//)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg' alt='facebook' height='40'>](https://www.facebook.com/nabilsiddik90)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg' alt='instagram' height='40'>](https://www.instagram.com/nabil.siddik/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg' alt='twitter' height='40'>](https://twitter.com/SiddikNabil)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/stackoverflow.svg' alt='stackoverflow' height='40'>](https://stackoverflow.com/users/nabil-siddik)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/youtube.svg' alt='YouTube' height='40'>](https://www.youtube.com/channel/UC6ammuqDfJoOgAdVE4KBfHQ)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/icloud.svg' alt='website' height='40'>](https://www.nabilsiddik.me)  
