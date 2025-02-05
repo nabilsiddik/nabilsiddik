@@ -25,8 +25,8 @@ With a proven track record and a portfolio of successful projects (available on 
 ![Python](https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white&style=for-the-badge)
 
 
-✔ I’m currently working on an E-commerce Project 
-✔ I’m currently learning AI/ML 
+- ✔ I’m currently working on an E-commerce Project 
+- ✔ I’m currently learning AI/ML 
 ✔ I’m looking to collaborate on GitHub 
 ✔ Ask me about Web Development 
 ✔ How to reach me: nabilsiddik90@gmail.com 
