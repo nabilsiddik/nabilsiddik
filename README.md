@@ -4,6 +4,12 @@
 I'm a dedicated, experienced full-stack web developer passionate about creating modern, responsive, and visually appealing websites tailored to your needs.
 With a proven track record and a portfolio of successful projects (available on my profile), I aim to provide high-quality web development services that exceed client expectations.
 
+<h3>Contact me</h3>
+<div>
+  <p><b>Gmail:</b> nabilsiddik90@gmail.com</p>
+  <p><b>Phone:</b> +8801957282230</p>
+</div>
+
 <h3>Things I code with</h3>
 
 ![HTML5](https://img.shields.io/badge/-HTML5-E34F26?logo=html5&logoColor=white&style=for-the-badge)
@@ -30,10 +36,6 @@ With a proven track record and a portfolio of successful projects (available on 
 🌸  Learning AI/ML           
 ✅  Studying Computer Science and Engineering          
 ⏳  Enjoying my coding life
-
-<h3>Contact me</h3>
-Gmail: nabilsiddik90@gmail.com
-Phone: +8801957282230
 
 <h3>Find me on social sites</h3>
 
