@@ -1,8 +1,10 @@
 ![Front-End Web Developer](https://i.ibb.co.com/zVHvbjxR/nabil-siddik-full-stack-developer-linkedin-cover.png)
 
-### Hi there, This is Nabil Siddik
-I'm a dedicated, experienced full-stack web developer passionate about creating modern, responsive, and visually appealing websites tailored to your needs.
-With a proven track record and a portfolio of successful projects (available on my profile), I aim to provide high-quality web development services that exceed client expectations.
+### Hello I'm Nabil Siddik
+𝗜 𝗮𝗺 𝗮 𝗺𝗼𝘁𝗶𝘃𝗮𝘁𝗲𝗱 𝗙𝘂𝗹𝗹-𝗦𝘁𝗮𝗰𝗸 𝗪𝗲𝗯 𝗗𝗲𝘃𝗲𝗹𝗼𝗽𝗲𝗿
+● Having hands-on experience building scalable, secure, and user-friendly web applications.
+● Having a real-world problem-solving mindset
+● Wants to grow in a collaborative environment
 
 <h3>Contact me</h3>
 <div>
