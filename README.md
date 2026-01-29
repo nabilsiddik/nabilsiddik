@@ -24,7 +24,7 @@ I enjoy solving real-world problems through **clean, maintainable code** and con
 - React.js, Next.js
 - Tailwind CSS, Responsive Design
 - Redux Toolkit, Context API
-- Motion UI
+- Framer Motion
 
 ### ⚙️ Backend
 - TypeScript, Node.js
@@ -82,7 +82,7 @@ Next.js, Express.js, MongoDB, Socket.io, Tailwind CSS, REST APIs
 ## 🏆 GitHub Trophies
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=nabilsiddik&theme=onedark&no-frame=true&row=1" />
+  <img src="https://github-profile-trophy.vercel.app/?username=nabilsiddik&theme=onedark&no-frame=true&row=1&margin-w=10" />
 </p>
 
 ---
