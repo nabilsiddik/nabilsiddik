@@ -108,3 +108,4 @@ Next.js, Express.js, MongoDB, Socket.io, Tailwind CSS, REST APIs
 </p>
 
 ![Snake animation](https://raw.githubusercontent.com/nabilsiddik/nabilsiddik/output/github-contribution-grid-snake.svg)
+
