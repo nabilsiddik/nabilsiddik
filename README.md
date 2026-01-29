@@ -1,27 +1,23 @@
 ![Front-End Web Developer](https://i.ibb.co.com/zVHvbjxR/nabil-siddik-full-stack-developer-linkedin-cover.png)
 
-<h1 align="center">Hi, I'm Nabil Siddik 👋</h1>
+<h1 align="center">Hi, I'm Nabil Siddik</h1>
 <h3 align="center">Full-Stack Developer (MERN & PERN) | React & Next.js</h3>
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=nabilsiddik&label=Profile%20Views&color=0e75b6&style=flat" alt="profile views" />
-</p>
 
 ---
 
-## 👨‍💻 About Me
+## About Me
 
 I am a **motivated Full-Stack Web Developer** with hands-on experience building **scalable, secure, and user-friendly web applications** using modern web technologies.
 
 I enjoy solving real-world problems through **clean, maintainable code** and continuously improving my skills in a **collaborative, professional environment**.
 
-🎯 **Currently seeking** a **Frontend Developer** or **Full-Stack Developer** role where I can grow, contribute to impactful projects, and learn from experienced teams.
+**Currently seeking** a **Frontend Developer** or **Full-Stack Developer** role where I can grow, contribute to impactful projects, and learn from experienced teams.
 
 ---
 
-## 🧰 Tech Stack
+## Tech Stack
 
-### 🚀 Core Technologies
+### Core Technologies
 ![My Skills](https://skillicons.dev/icons?i=react,nextjs,ts,js,nodejs,express,mongodb,postgres,prisma,tailwind,redux,git,github,figma)
 
 ### 🖥️ Frontend
@@ -67,17 +63,6 @@ Next.js, Express.js, MongoDB, Socket.io, Tailwind CSS, REST APIs
 
 ---
 
-## 🔥 Featured Projects
-
-### 🛡️ Safe Childhood Network
-A real-time communication platform focused on child safety and guidance.  
-**Tech:** Next.js, Express.js, MongoDB, Socket.io  
-🔗 Live: https://safe-childhood-network-client.vercel.app  
-
-*(More projects available in pinned repositories ⬇️)*
-
----
-
 ## 🏆 Achievements & Certifications
 
 - ✅ **[Complete Web Development Course – Programming Hero](https://drive.google.com/file/d/1TGn8unKpck8V6meaq1hY2AW6z6E3YDxP/view?usp=drive_link)**
@@ -106,6 +91,7 @@ A real-time communication platform focused on child safety and guidance.
 - Advanced **Next.js (App Router, SSR, SSG)**
 - Performance & SEO optimization
 - Scalable backend architecture with **PostgreSQL & Prisma**
+- Agentic AI **Langchain & Langgraph**
 
 ---
 
