@@ -1,15 +1,84 @@
 ![Front-End Web Developer](https://i.ibb.co.com/zVHvbjxR/nabil-siddik-full-stack-developer-linkedin-cover.png)
 
 ### Hello I'm Nabil Siddik
-𝗜 𝗮𝗺 𝗮 𝗺𝗼𝘁𝗶𝘃𝗮𝘁𝗲𝗱 𝗙𝘂𝗹𝗹-𝗦𝘁𝗮𝗰𝗸 𝗪𝗲𝗯 𝗗𝗲𝘃𝗲𝗹𝗼𝗽𝗲𝗿
-● Having hands-on experience building scalable, secure, and user-friendly web applications.
-● Having a real-world problem-solving mindset
-● Wants to grow in a collaborative environment
+I am a motivated **Full-Stack Web Developer** with hands-on experience building **scalable, secure, and user-friendly web applications**.  
+I enjoy solving real-world problems through clean, efficient code and continuously improving my skills in a collaborative environment.
+
+I am eager to join a **Frontend Developer** or **Full-Stack Developer** role where I can grow professionally, contribute to meaningful projects, and learn from experienced teams.
+
+---
+
+## 🚀 Core Skills & Strengths
+
+### 🖥️ Frontend
+- React.js
+- Next.js
+- Tailwind CSS
+- Redux Toolkit
+- Responsive Design
+- Motion UI
+
+### ⚙️ Backend
+- TypeScript
+- Node.js
+- Express.js
+- RESTful APIs
+- JWT Authentication
+
+### 🗄️ Databases
+- MongoDB (Mongoose)
+- PostgreSQL (Prisma)
+
+### 🔄 State Management
+- Redux Toolkit
+- Context API
+
+### 🛠️ Tools & Platforms
+- Git & GitHub
+- Vercel
+- Render
+- Vite
+- Postman
+- Figma
+- Trello
+
+✔️ Strong problem-solving mindset  
+✔️ Clean, maintainable, and best coding practices  
+
+---
+
+## 💼 Experience
+
+### Full-Stack Developer (Project-Based, Remote)  
+**Safe Childhood Network (SCN)**  
+📅 *June 2025 – August 2025*
+
+- Built a full-stack platform with **real-time chat** to connect users with admins.
+- Developed a fully **responsive UI** using Next.js and Tailwind CSS.
+- Implemented a **secure backend** using Express.js, MongoDB, and JWT authentication.
+
+**Tech Stack:**  
+Next.js, Express.js, MongoDB, Socket.io, Tailwind CSS, REST APIs
+
+---
+
+## 🏆 Achievements & Certifications
+
+- ✅ **Complete Web Development Course** – Programming Hero  
+- ✅ **Full Stack Web Development Course** – Programming Hero
+
+---
+
+## 📫 Let’s Connect
+
+- 💻 Passionate about Web Development
+- 🏏 Cricket enthusiast
+- 🤝 Open to collaboration and learning opportunities
 
 <h3>Contact me</h3>
 <div>
-  <p><b>Gmail:</b> nabilsiddik90@gmail.com</p>
-  <p><b>Phone:</b> +8801957282230</p>
+  <p><b>WhatsApp:</b> +8801957282230</p>
+  <p><b>Email:</b> nabilsiddik90@gmail.com</p>
 </div>
 
 <h3>Things I code with</h3>
