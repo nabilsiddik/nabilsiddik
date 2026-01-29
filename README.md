@@ -70,23 +70,6 @@ Next.js, Express.js, MongoDB, Socket.io, Tailwind CSS, REST APIs
 
 ---
 
-## 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=nabilsiddik&show_icons=true&theme=tokyonight" height="160" />
-  <img src="https://streak-stats.demolab.com?user=nabilsiddik&theme=tokyonight" height="160" />
-</p>
-
----
-
-## 🏆 GitHub Trophies
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=nabilsiddik&theme=onedark&no-frame=true&row=1&margin-w=10" />
-</p>
-
----
-
 ## 🎯 Currently Focused On
 - Advanced **Next.js (App Router, SSR, SSG)**
 - Performance & SEO optimization
@@ -100,12 +83,4 @@ Next.js, Express.js, MongoDB, Socket.io, Tailwind CSS, REST APIs
 - **WhatsApp:** [Chat with me](https://wa.me/8801957282230?text=Hello%20Nabil,%20I%20found%20your%20GitHub%20profile%20and%20would%20like%20to%20connect.)
 - **Email:** nabilsiddik90@gmail.com  
 - **Portfolio:** [https://nabilsiddik.vercel.app](https://nabilsiddik.vercel.app)  
-
----
-
-<p align="center">
-  <i>“Building scalable, secure, and user-friendly products—one commit at a time.”</i>
-</p>
-
-![Snake animation](https://raw.githubusercontent.com/nabilsiddik/nabilsiddik/output/github-contribution-grid-snake.svg)
 
