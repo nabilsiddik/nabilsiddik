@@ -72,7 +72,7 @@ Next.js, Express.js, MongoDB, Socket.io, Tailwind CSS, REST APIs
 
 ## 📫 Contact Me
 
-- **WhatsApp:** [Chat with me]([https://wa.me/8801957282230](https://wa.me/8801957282230?text=Hello%20Nabil,%20I%20found%20your%20profile%20and%20would%20like%20to%20connect.)) 
+- **WhatsApp:** [Chat with me](https://wa.me/8801957282230?text=Hello%20Nabil,%20I%20found%20your%20profile%20and%20would%20like%20to%20connect.) 
 - **Email:** nabilsiddik90@gmail.com  
 - **Portfolio:** [nabilsiddik.vercel.app](https://nabilsiddik.vercel.app)
 
